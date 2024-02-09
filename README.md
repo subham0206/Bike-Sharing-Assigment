@@ -1,5 +1,8 @@
 # Bike Sharing Assignment
 > Build a Multiple linear regression model to solve bike sharing problem for a company.
+> Check out the full code available in my collab notebook with better readability: https://drive.google.com/drive/folders/1OJj2GvCnni0lHHiVg7QTYrAnehOtMDt6?usp=sharing
+
+
 
 
 ## Table of Contents
